@@ -1,10 +1,4 @@
 <template lang="pug">
-  tutorial
+  a(href="/catalog") Перейти в каталог
 </template>
 
-<script>
-import Vue from 'vue'
-
-export default Vue.extend({
-  name: 'IndexPage'
-})
